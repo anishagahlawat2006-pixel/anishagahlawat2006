@@ -32,9 +32,9 @@ Analyze pharmacy operations dataset to track KPIs, delays, and stock accuracy us
 ---
 
 ## 📫 Contact Me
-- **Email:** your-email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Kaggle:** [Kaggle Profile](https://www.kaggle.com/yourusername)
+- **Email:** anishagahlawat2006@gmail.com
+- **LinkedIn:** www.linkedin.com/in/dr-anisha-gahlawat-1330641ab
+- **Kaggle:** [Kaggle Profile](https://www.kaggle.com/anishagahlawat2006)
 
 ---
 
